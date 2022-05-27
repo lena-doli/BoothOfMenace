@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,900,500,600|Roboto:400,700");
+
+.select-languagescreen {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 296px 0;
+  width: 1366px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.button {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 4.8px;
+  cursor: pointer;
+  display: flex;
+  height: 92px;
+  margin-top: 60px;
+  overflow: hidden;
+  padding: 0 115.5px;
+  width: 534px;
+}
+
+.text-1 {
+  align-items: center;
+justify-content: center;
+  background-color: 
+#ffffff00;
+  display: flex;
+  height: 48px;
+  width: 534px;
+}
+
+.text {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.title {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  min-height: 58px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1042px;
+}
+
+.button-1 {
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 4.8px;
+  display: flex;
+  height: 92px;
+  margin-top: 32px;
+  overflow: hidden;
+  padding: 0 120.5px;
+  width: 534px;
+}
+
+.text-2 {
+  align-items: center;
+  justify-content: center;
+  background-color: 
+#ffffff00;
+  display: flex;
+  height: 48px;
+  width: 534px;
+}

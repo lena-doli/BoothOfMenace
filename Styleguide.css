@@ -1,0 +1,59 @@
+:root {
+  --black: 
+rgba(0, 0, 0, 1);
+  --shark: 
+rgba(33, 37, 41, 1);
+  --pale-sky: 
+rgba(108, 117, 125, 1);
+  --white: 
+rgba(255, 255, 255, 1);
+
+  --font-size-s: 20px;
+  --font-size-m: 24px;
+  --font-size-l: 32px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 70px;
+  --font-size-xxxxl: 80px;
+
+  --font-family-inter: "Inter";
+}
+
+
+
+.inter-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+.inter-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+.inter-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.inter-bold-shark-40px {
+  color: var(--shark);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+.inter-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}

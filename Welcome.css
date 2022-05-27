@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,900,500,600|Roboto:400,700");
+
+.welcome-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 283px 0;
+  width: 100%;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.title {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 96px;
+  min-height: 192px;
+  text-align: center;
+  width: 50%;
+}
+
+.group-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  min-height: 130px;
+  height: 25%;
+  width: 50%;
+}
+
+.button {
+  align-items: center;
+  justify-content: center;
+  background-color: #212529;
+  border-radius: 4.8px;
+  display: flex;
+  height: 92px;
+  overflow: hidden;
+  padding: 0 213.5px;
+  width: 50%;
+  cursor: pointer;
+}
+
+.text {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 50%;
+  width: 50%;
+}
+
+.text-1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.click-here-to-start {
+  color: var(--pale-sky);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 169px;
+  margin-top: auto;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.fullscreen-btn {
+  color: var(--white);
+  height: 10%;
+  width: 10%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

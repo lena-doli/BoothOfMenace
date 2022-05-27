@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,900,500,600|Roboto:400,700");
+
+.x4d-experience {
+  align-items: flex-start;
+  background-color: 
+#ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 35.7px 36px;
+  width: 1366px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.vector {
+  cursor: pointer;
+  height: auto;
+  width: 5%;
+}
+
+.group-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 33px;
+  min-height: 770px;
+  width: 1169px;
+}
+
+.please-put-on-the-vr {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 84px;
+  margin-right: 2px;
+  margin-top: 135px;
+  min-height: 588px;
+  text-align: center;
+  width: 1040px;
+}
+
+.x4-d-experience {
+  color: 
+#212529;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  min-height: 48px;
+  white-space: nowrap;
+}

@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,900,500,600|Roboto:400,700");
+
+.options {
+  align-items: flex-start;
+  justify-content: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 0;
+  width: 100%;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.vector {
+  cursor: pointer;
+  height: auto;
+  width: 5%;
+}
+
+.group-27 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: auto;
+  margin-top: 33px;
+  width: 75%;
+}
+
+.group-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  min-height: 636px;
+  width: auto;
+}
+
+.group-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 300px;
+  min-width: 633px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-color: var(--pale-sky);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  padding: 32px 0;
+  width: 629px;
+}
+
+.x4-d-experience {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 32px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.x-you {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 16px;
+  min-height: 88px;
+  width: 565px;
+}
+
+.group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 300px;
+  margin-top: 36px;
+  min-width: 633px;
+}
+
+.overlap-group3 {
+  align-items: center;
+  background-color: var(--pale-sky);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  padding: 32px 0;
+  width: 629px;
+}
+
+.click-here-if-you-wa {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 16px;
+  min-height: 88px;
+  width: 565px;
+}
+
+.climate-change-and-earth {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-right: 54px;
+  min-height: 48px;
+  min-width: 511px;
+  white-space: nowrap;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 725px;
+  width: auto;
+}
+
+.group-9 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 300px;
+  margin-top: 41px;
+  min-width: 633px;
+}
+
+.overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--pale-sky);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  padding: 32px;
+  width: 629px;
+}
+
+.quiz {
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.how-green-are-you-find-out-here {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 2px;
+  margin-top: 16px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.suggestions {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 32px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.title {
+  color: 
+#212529;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 48px;
+  white-space: nowrap;
+}
